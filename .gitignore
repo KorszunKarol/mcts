@@ -1,0 +1,5 @@
+*.h5
+src/weights/*.h5
+__pycache__/
+*.pyc
+.git.bak/
